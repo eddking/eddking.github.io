@@ -1,32 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-	<title><![CDATA[Sane Code]]></title>
-	<link href="http://eddking.github.io/atom.xml" rel="self"/>
-	<link href="http://eddking.github.io/"/>
-	<updated>2013-07-17T09:42:07+01:00</updated>
-	<id>http://eddking.github.io/</id>
-	<author>
-		<name><![CDATA[Edd King]]></name>
-		
-	</author>
-	<generator uri="http://octopress.org/">Octopress</generator>
+  <title><![CDATA[Category: tings | Sane Code]]></title>
+  <link href="http://eddking.github.io/blog/categories/tings/atom.xml" rel="self"/>
+  <link href="http://eddking.github.io/"/>
+  <updated>2013-07-17T09:42:07+01:00</updated>
+  <id>http://eddking.github.io/</id>
+  <author>
+    <name><![CDATA[Edd King]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
-	
-	<entry>
-		
-			<title type="html"><![CDATA[A New Blog]]></title>
-		
-		<link href="http://eddking.github.io/blog/2013/07/16/a-new-blog/"/>
-		<updated>2013-07-16T00:23:00+01:00</updated>
-		<id>http://eddking.github.io/blog/2013/07/16/a-new-blog</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<p>Hello World!</p>
+  
+  <entry>
+    <title type="html"><![CDATA[A New Blog]]></title>
+    <link href="http://eddking.github.io/blog/2013/07/16/a-new-blog/"/>
+    <updated>2013-07-16T00:23:00+01:00</updated>
+    <id>http://eddking.github.io/blog/2013/07/16/a-new-blog</id>
+    <content type="html"><![CDATA[<p>Hello World!</p>
 
 <pre><code>public static final &lt;T&gt; Function&lt;T, T&gt; defaultValue(final T value) {
     return new Function&lt;T, T&gt;() {
@@ -86,8 +78,7 @@ id sem consectetuer libero luctus adipiscing.</p></blockquote>
 <p>This is <a href="http://example.com/" title="Title">an example</a> inline link.</p>
 
 <p><em>Italic Baby!!</em></p>
-]]>
-		</content>
-	</entry>
-	
+]]></content>
+  </entry>
+  
 </feed>
